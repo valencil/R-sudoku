@@ -1,1 +1,2 @@
-To play execute the code and wait for user interface to launch. This program was made as my final assignment for my R for Life class at Charles University.
+To play execute the code and wait for user interface to launch. "Showcase" mode is for testing the program and only has 2 missing numbers. The other modes have a progressively higher difficulty (more nombers left blank), the sepcifics of each difficulty can easily be adjusted in the code.
+This program was made as my final assignment for my R for Life class at Charles University. It includes detailed descriptions in the code.
