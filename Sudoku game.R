@@ -1,3 +1,5 @@
+install.packages("shiny")
+install.packages("shinyMatrix")
 library(shiny)
 library(shinyMatrix)
 
